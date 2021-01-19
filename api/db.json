@@ -1,0 +1,113 @@
+{
+    "users": [
+
+        {
+            "id": 1,
+            "name": "Gabriela Mattos",
+            "company": "EJCM",
+            "blog": "https://github.com/blog",
+            "location": "Rio de Janeiro",
+            "email": "gabriela@gmail.com",
+            "bio": "Estudante da UFRJ, desenvolvedora frontend na EJCM.."
+        },
+
+        {
+            "id": 2,
+            "name": "Pedro Henrique Teles",
+            "company": "EJCM",
+            "blog": "https://github.com/blog",
+            "location": "Minas Gerais",
+            "email": "pedrohenrique@gmail.com",
+            "bio": "Estudante da UFRJ, participante do grupo de eletronica, Minervas Digitais."
+        },
+
+        {
+
+            "id": 3,
+            "name": "Nayara Gomes",
+            "company": "EJCM",
+            "blog": "https://github.com/blog",
+            "location": "São Paulo",
+            "email": "nayara@gmail.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 4,
+            "name": "Gabriel Ruas",
+            "company": "EJCM",
+            "blog": "https://github.com/blog",
+            "location": "São Paulo",
+            "email": "ruas@github.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 5,
+            "name": "Robson Mattos",
+            "company": "Git Hub",
+            "blog": "https://github.com/blog",
+            "location": "Minas Gerais",
+            "email": "robson@gmail.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 6,
+            "name": "Paolla Rufino",
+            "company": "Git Hub",
+            "blog": "https://github.com/blog",
+            "location": "Minas Gerais",
+            "email": "paolla@gmail.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 7,
+            "name": "Ana Maria Teles",
+            "company": "Git Hub",
+            "blog": "https://github.com/blog",
+            "location": "Rio de Janeiro",
+            "email": "ana@gmail.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 8,
+            "name": "Clara Ferreira",
+            "company": "Git Hub",
+            "blog": "https://github.com/blog",
+            "location": "São Paulo",
+            "email": "clara@gmail.com",
+            "bio": ""
+        },
+        {
+
+            "id": 9,
+            "name": "João Roberto Neves",
+            "company": "Minerva Bots",
+            "blog": "https://github.com/blog",
+            "location": "Rio de Janeiro",
+            "email": "joao@gmail.com",
+            "bio": ""
+        },
+
+        {
+
+            "id": 10,
+            "name": "Paulo da Silva",
+            "company": "Minerva Bots",
+            "blog": "https://github.com/blog",
+            "location": "Rio de Janeiro",
+            "email": "paulo@gmail.com",
+            "bio": ""
+        }
+
+
+    ]
+}
